@@ -79,6 +79,6 @@ function placeOrder(cardNumber) {
   }
   
   else {
-    console.log(`)
+    console.log(`Your total cost is $71, which will be charged to the card`)
   }
 }
