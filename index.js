@@ -73,5 +73,8 @@ function removeFromCart(item) {
 }
 }
 function placeOrder(cardNumber) {
-  // write your code here
+  var order = [];
+  if (creditcard === undefined) {
+    return console.log()
+  }
 }
